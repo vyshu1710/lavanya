@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.0;
+    margin: 0;
+    padding: 0;
+    background-color: #fafaf9;
+    color: #fff;
+    text-align: center;
+    padding: 1rem 0;
+}
+h1{
+    font-size:100px;
+    font-style: inherit;
+    text-shadow:1cap;
+    padding-top: 3hv;
+    font-size: sans-serif;
+    color:#032652;
+}
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+    float: inline-end;
+    color: rgb(16, 15, 15);
+    text-shadow: #E75480;
+    background-color: rgb(202,Â 186,Â 241);
+}

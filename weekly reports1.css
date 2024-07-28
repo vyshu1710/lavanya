@@ -1,0 +1,16 @@
+h1{
+    font-size:30px;
+    font-style: inherit;
+    text-shadow:1cap;
+    padding-top: 3hv;
+    font-size: sans-serif;
+    color:#f20182;
+}
+p{
+    font-size: 15px;
+}
+.img_deg{
+    float:right;
+    width:25%;
+ Â Â Â height:25%;
+}
